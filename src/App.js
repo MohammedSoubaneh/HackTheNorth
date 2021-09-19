@@ -16,7 +16,7 @@ function App() {
         <img src={HeroImage} width='626px' height='400px'/>
       </div>
       <div className="imageTwo">
-        <img src={BottomRightImage} width='223px' />
+        <img src={BottomRightImage} width='223px'/>
       </div>
       <div className="imageThree">
         <img src={BottomLeftImage} width='380px' />
